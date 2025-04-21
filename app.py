@@ -168,4 +168,5 @@ with gr.Blocks() as demo:
             qa_button_live.click(handle_qa_live, inputs=qa_input_live, outputs=qa_output_live)
             demo.load(fn=refresh_captions, every=2, outputs=[live_text])
 
+if __name__ == "__main__":
     demo.queue().launch()
