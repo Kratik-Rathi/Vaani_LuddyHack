@@ -7,7 +7,7 @@
 ## 🚀 Key Features
 
 - 🎙️ **Live & File-based Transcription** using **Fast-Whisper**
-- 🧑‍🤝‍🧑 **Speaker Diarization** using **WhisperX** and **PyAnnote-Audio**
+- 🧑‍🤝‍🧑 **Speaker Diarization** using **Distilled-Whisper** and **PyAnnote-Audio**
 - 💬 **Summarization & Sentiment Analysis** using **Hugging Face Transformers**
 - ❓ **Question Answering (QnA)** from transcript content
 - 🧠 Smart chunking for low-latency real-time feedback
